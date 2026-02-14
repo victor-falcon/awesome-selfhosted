@@ -1515,6 +1515,7 @@ _Related: [Inventory Management](#inventory-management), [Resource Planning](#re
 - [Sure](https://github.com/we-promise/sure) - Personal finance application for everyone (fork of Maybe). `AGPL-3.0` `Docker`
 - [VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO. `GPL-3.0` `Docker`
 - [Wallos](https://wallosapp.com) - Lightweight personal subscription tracker with statistics and optional notifications. ([Demo](https://github.com/ellite/wallos?tab=readme-ov-file#demo), [Source Code](https://github.com/ellite/wallos)) `GPL-3.0` `PHP/Docker`
+- [Whisper Money](https://whisper.money) - Privacy-first personal finance app. Track expenses, create budgets, and manage your money without sharing bank credentials. Import transactions via CSV/XLS. ([Demo](https://whisper.money/login?demo=1), [Source Code](https://github.com/whisper-money/whisper-money)) `CC-BY-NC-4.0` `PHP/Docker`
 - [WYGIWYH](https://github.com/eitchtee/WYGIWYH) - Simple and powerful finance tracker. ([Demo](https://wygiwyh-demo.herculino.com/)) `AGPL-3.0` `Docker/Django`
 - [YAFFA](https://www.yaffa.cc) - Personal finance web application, that can be used to keep track of your money, expenses, budgets, and investments. It also helps with long-term financial planning. ([Demo](https://sandbox.yaffa.cc), [Source Code](https://github.com/kantorge/yaffa)) `MIT` `PHP`
 
